@@ -1,0 +1,2 @@
+Channel  四种实现
+FileChannel:在使用FileChannel之前，使用Access

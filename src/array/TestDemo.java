@@ -5,6 +5,6 @@ public class TestDemo {
         System.out.println("HELLO GIT");
         System.out.println("this is hot-fix");
         System.out.println("hot-fix again");
-        System.outprintIn("在github上面修改过的代码");
+        System.out.println("在github上面修改过的代码");
     }
 }
